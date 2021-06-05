@@ -1,4 +1,4 @@
-# Vue-cli
+# Vue.js, Vue-CLI
 
 - Reactivity
 - Instance
